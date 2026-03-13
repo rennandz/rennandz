@@ -24,7 +24,7 @@ Curto trabalhar com back-end e front-end, sempre buscando evoluir, aprender na p
 
 ## 🚀 O que eu curto desenvolver
 
-- Sistemas web
+- Sistemas web e c#
 - Bots e automações
 - Integrações com APIs
 - Soluções práticas e funcionais
@@ -44,8 +44,8 @@ Curto trabalhar com back-end e front-end, sempre buscando evoluir, aprender na p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rennandz&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rennandz&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -53,6 +53,5 @@ Curto trabalhar com back-end e front-end, sempre buscando evoluir, aprender na p
 ## 📫 Contato
 
 <p align="left">
-  <a href="SEU_LINKEDIN">LinkedIn</a> •
-  <a href="mailto:SEU_EMAIL">Email</a>
+  <a href="mailto:devrennandz@gmail.com">Email</a>
 </p>
