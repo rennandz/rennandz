@@ -1,36 +1,58 @@
-<h1 align="center">Fala, eu sou o Rennan 👨‍💻</h1>
+<h1 align="center">Olá, eu sou o Rennan 👨‍💻</h1>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+de+Software;Back-end+e+Front-end;Criando+bots%2C+automa%C3%A7%C3%B5es+e+sistemas;Apaixonado+por+resolver+problemas+com+c%C3%B3digo"
-    alt="Typing SVG"
-  />
-</p>
-
-<p align="center">
-  <img src="./assets/skills-wheel.svg" width="430" alt="Roda de skills do Rennan" />
-</p>
-
-<p align="center">
-  Transformando ideias em sistemas, bots e automações que resolvem problemas de verdade.
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=python,js,php,cs,git,java,html,css"
-      alt="Minhas skills"
-    />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Estudante+de+Engenharia+de+Software;Back-end+e+Front-end;Criando+bots%2C+automa%C3%A7%C3%B5es+e+sistemas;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais" />
 </p>
 
 ---
 
-## ⚡ Sobre mim
+## 💻 Sobre mim
 
-```yaml
-nome: Rennan
-formacao: Estudante de Engenharia de Software
-foco: [Back-end, Front-end, Bots, Automações, Sistemas]
-stack: [Python, JavaScript, PHP, C#, VB, Git, Java]
-status_java: "1% carregado..."
+Sou o Rennan, estudante de Engenharia de Software, apaixonado por sistemas, bots, automações e soluções que resolvem problemas de verdade.
+
+Curto trabalhar com back-end e front-end, sempre buscando evoluir, aprender na prática e construir projetos cada vez mais completos.
+
+---
+
+## ⚡ Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,php,cs,git,java,html,css,vscode" />
+</p>
+
+---
+
+## 🚀 O que eu curto desenvolver
+
+- Sistemas web
+- Bots e automações
+- Integrações com APIs
+- Soluções práticas e funcionais
+- Projetos back-end e front-end
+
+---
+
+## 📚 Atualmente
+
+- Aprimorando minhas habilidades em back-end e front-end
+- Criando projetos práticos
+- Estudando mais sobre arquitetura e desenvolvimento de sistemas
+- Evoluindo no Java... `1%` 😅
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="left">
+  <a href="SEU_LINKEDIN">LinkedIn</a> •
+  <a href="mailto:SEU_EMAIL">Email</a>
+</p>
