@@ -42,8 +42,6 @@ Curto trabalhar com back-end e front-end, sempre buscando evoluir, aprender na p
 ---
 
 
----
-
 ## 📫 Contato
 
 <p align="left">
